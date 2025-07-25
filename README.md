@@ -1,4 +1,4 @@
- # 30235_weixin235基于微信小程序点餐系统的设计ssm（微信端录像）.mp4
+ # 30235_weixin基于微信小程序点餐系统的设计ssm（微信端录像）.mp4
     
  
  # 项目资料包含：
@@ -9,7 +9,7 @@
  # 项目资料获取方式
  * 需要资料或者有任何问题的加QQ：2684634017
 
- * 项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=30235
+ * 项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=30235
  
  
  * 项目演示视频；https://graduation-images.oss-cn-beijing.aliyuncs.com/videos/297%E5%A5%97-2-%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BD%95%E5%83%8F/30235_weixin235%E5%9F%BA%E4%BA%8E%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%82%B9%E9%A4%90%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1ssm%EF%BC%88%E5%BE%AE%E4%BF%A1%E7%AB%AF%E5%BD%95%E5%83%8F%EF%BC%89.mp4
